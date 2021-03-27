@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Dashbar
+comment1.params=
+comment1.target=Dashbar()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ update()
+comment4.params=
+comment4.target=void\ minDash()
+comment5.params=
+comment5.target=void\ regenDash()
+numComments=6
